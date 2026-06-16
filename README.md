@@ -68,7 +68,6 @@
 
 ```bash
 git clone https://github.com/XM-George/CRC-Simulation.git
-
 cd CRC-Simulation
 
 ```
